@@ -1,0 +1,7 @@
+# Large originals (web copies live in images/)
+*.CR3
+HillaryTylerCEO.JPG
+Slink360CEO.webp
+
+# Local preview config
+.claude/
