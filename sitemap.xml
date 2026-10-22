@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace YOUR-DOMAIN.com with your real domain, then submit this file in Google Search Console -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://YOUR-DOMAIN.com/</loc>
-    <image:image><image:loc>https://YOUR-DOMAIN.com/images/hillary-tyler-slink360-ceo.jpg</image:loc></image:image>
-    <image:image><image:loc>https://YOUR-DOMAIN.com/images/hillary-tyler-ceo-slink360-portrait.jpg</image:loc></image:image>
-    <image:image><image:loc>https://YOUR-DOMAIN.com/images/hillary-tyler-ceo-slink360-working.jpg</image:loc></image:image>
+    <loc>https://tylerhillary.github.io/google-face/</loc>
+    <image:image><image:loc>https://tylerhillary.github.io/google-face/images/hillary-tyler-slink360-ceo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://tylerhillary.github.io/google-face/images/hillary-tyler-ceo-slink360-portrait.jpg</image:loc></image:image>
+    <image:image><image:loc>https://tylerhillary.github.io/google-face/images/hillary-tyler-ceo-slink360-working.jpg</image:loc></image:image>
   </url>
 </urlset>
